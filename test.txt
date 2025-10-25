@@ -4,4 +4,8 @@ I will add some more text just to see what happens when i merge
 =======
 
 adesso aggiungo nuove modifiche 
+<<<<<<< HEAD
+>>>>>>> nuova-branch
+=======
+altre nuove modifiche
 >>>>>>> nuova-branch
