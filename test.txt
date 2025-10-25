@@ -1,1 +1,2 @@
 helo this is a new text
+I will add some more text just to see what happens when i merge
