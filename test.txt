@@ -1,2 +1,7 @@
 helo this is a new text
+<<<<<<< HEAD
 I will add some more text just to see what happens when i merge
+=======
+
+adesso aggiungo nuove modifiche 
+>>>>>>> nuova-branch
