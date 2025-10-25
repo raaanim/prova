@@ -1,0 +1,37 @@
+
+#!/bin/bash
+rm -r first
+mkdir first
+sleep 1
+cd first
+sleep 1
+touch person.txt
+sleep 1
+mv person.txt another.txt
+sleep 1
+cp another.txt copy.txt
+sleep 1
+
+
+mkdir first
+sleep 1
+echo "Ho appena creato la cartella"
+sleep 1
+cd first
+sleep 1
+touch person.txt
+sleep 1
+mv person.txt another.txt
+sleep 1
+cp another.txt copy.txt
+sleep 1
+rm copy.txt
+sleep 1
+cd ..
+sleep 1
+cp -r first second
+sleep 1
+rm -r second
+sleep 1
+echo "Ho appena eliminato la cartella second"
+echo "Fine dello script"
