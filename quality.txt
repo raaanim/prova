@@ -35,3 +35,8 @@ rm -r second
 sleep 1
 echo "Ho appena eliminato la cartella second"
 echo "Fine dello script"
+
+
+
+giusto una prova
+
